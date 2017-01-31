@@ -10,7 +10,7 @@ Mais recursos: [What Web Can Do Today](https://whatwebcando.today)
 Pré configurado para utilização da biblioteca [sw-toolbox](https://googlechrome.github.io/sw-toolbox/docs/master/tutorial-api)
 
 ## Fallback
-Pré configurado com suporte Safari iOS e MacOS via appcache manifest para estratégia de cache.
+Pré configurado com suporte Safari iOS e MacOS via appcache manifest para estratégia de cache e adicionar a home screen. Não se esqueça de alterar a estratégia de cache do fallback no arquivo "auto.appcache". Para desabilitar o fallback do appcache, exclua a referência ao arquivo em "index.html". 
 
 Limites: [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
 
