@@ -35,10 +35,10 @@ URL: [https://pwa-sw-toolbox.firebaseapp.com/step3/](https://pwa-sw-toolbox.fire
 ## Lighthouse results
 ![light house results](https://s30.postimg.org/7r0osp2td/Captura_de_Tela_2017_01_31_a_s_00_04_30.png)
 
-### Preview Online
+### Preview Modo Online
 ![online mode](https://s24.postimg.org/jux8zo9yd/pwa_online.png)
 
-### Preview Offline
+### Preview Modo Offline
 ![offline mode](https://s24.postimg.org/kyhdbmulh/pwa_offline.png)
 
 
