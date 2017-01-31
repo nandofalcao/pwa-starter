@@ -1,13 +1,13 @@
 # PWA Starter
 Template utilitário para configuração inicial de WebApps com suporte a PWA.
 
+## Service Worker Toolbox
+Pré configurado para utilização da biblioteca [sw-toolbox](https://googlechrome.github.io/sw-toolbox/docs/master/tutorial-api)
+
 ## HTML5 APIs
 Pré configurado com suporte ao estado de conexão do dispositivo (online/offline) via [navigator.online](https://developer.mozilla.org/pt-BR/docs/Web/API/NavigatorOnLine/onLine).
 
 Mais recursos: [What Web Can Do Today](https://whatwebcando.today)
-
-## Service Worker Toolbox
-Pré configurado para utilização da biblioteca [sw-toolbox](https://googlechrome.github.io/sw-toolbox/docs/master/tutorial-api)
 
 ## Fallback
 Pré configurado com suporte Safari iOS e MacOS via appcache manifest para estratégia de cache e adicionar a home screen. Não se esqueça de alterar a estratégia de cache do fallback no arquivo "auto.appcache". Para desabilitar o fallback do appcache, exclua a referência ao arquivo em "index.html". 
