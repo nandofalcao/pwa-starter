@@ -1,4 +1,7 @@
 CACHE MANIFEST
+
+# Não esqueça de alterar a estratégia de cache abaixo conforme a necessidade de sua aplicação
+# Incremente o valor da versão abaixo caso queira atualizar o cache deste arquivo
 # v.3
 
 CACHE:
