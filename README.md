@@ -14,12 +14,13 @@ Pré configurado com suporte Safari iOS e MacOS via appcache manifest para estra
 
 Limites: [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
 
+## Demo
+[https://pwa-sw-toolbox.firebaseapp.com/step3/](https://pwa-sw-toolbox.firebaseapp.com/step3/)
+
+
 ## Lighthouse results
 ![light house results](https://s30.postimg.org/7r0osp2td/Captura_de_Tela_2017_01_31_a_s_00_04_30.png)
 
-
-## Demo
-[https://pwa-sw-toolbox.firebaseapp.com/step3/](https://pwa-sw-toolbox.firebaseapp.com/step3/)
 ### Preview Online
 ![online mode](https://s24.postimg.org/jux8zo9yd/pwa_online.png)
 
