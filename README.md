@@ -29,6 +29,8 @@ Utilize o [Google Firebase](https://firebase.google.com/) para deploy na fase de
 
 Utilize a ferramenta [Lighthouse](https://developers.google.com/web/tools/lighthouse) para validação de seu PWA.
 
+[Guia básico sobre Progressive Web Apps](https://medium.com/fcamara-hpt/guia-b%C3%A1sico-sobre-progressive-web-apps-4eaa42f17f63#.2tv1p26n3)
+
 
 ## Demo
 Visite a [demo](https://pwa-sw-toolbox.firebaseapp.com/step3/) e logo após o carregamento da página desconecte-se da internet e navegue até uma página interna clicando na imagem. Conecte-se novamente :)
