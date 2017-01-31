@@ -5,7 +5,8 @@ Template utilitário para configuração inicial de projetos com suporte a PWA.
 Pré configurado para utilização da biblioteca [sw-toolbox](https://googlechrome.github.io/sw-toolbox/docs/master/tutorial-api)
 
 ## Fallback
-Pré configurado com suporte Safari iOS e MacOS via appcache manifeste para estratégia de cache.
+Pré configurado com suporte Safari iOS e MacOS via appcache manifest para estratégia de cache.
+
 Limites do cache: [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
 
 
