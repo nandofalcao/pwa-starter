@@ -44,6 +44,8 @@ Adicionar suporte a [BackgroundSync](https://developers.google.com/web/updates/2
 
 Adicionar suporte a [PushNotification](https://developers.google.com/web/updates/2015/03/push-notifications-on-the-open-web).
 
+Adicionar projeto ao NPM e Bower.
+
 Colabore [https://github.com/nandofalcao/pwa-starter/pulls](https://github.com/nandofalcao/pwa-starter/pulls)
 
 ## Lighthouse results
