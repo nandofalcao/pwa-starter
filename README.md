@@ -33,7 +33,7 @@ Utilize a ferramenta [Lighthouse](https://developers.google.com/web/tools/lighth
 ## Demo
 Visite a [demo](https://pwa-sw-toolbox.firebaseapp.com/step3/) e logo após o carregamento da página desconecte-se da internet e navegue até uma página interna clicando na imagem. Conecte-se novamente :)
 
-URL: [https://pwa-sw-toolbox.firebaseapp.com/step3/](https://pwa-sw-toolbox.firebaseapp.com/step3)
+Demo URL: [https://pwa-sw-toolbox.firebaseapp.com/step3/](https://pwa-sw-toolbox.firebaseapp.com/step3)
 
 
 
