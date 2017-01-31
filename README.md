@@ -1,5 +1,5 @@
 # PWA Starter
-Template utilitário para configuração inicial de projetos com suporte a Offline first com utilização da biblioteca [sw-toolbox](https://googlechrome.github.io/sw-toolbox/docs/master/tutorial-api)
+Template utilitário para configuração inicial de projetos com suporte a PWA. Pré configurado para utilização da biblioteca [sw-toolbox](https://googlechrome.github.io/sw-toolbox/docs/master/tutorial-api)
 
 ## Fallback (Safari iOS MacOS)
  com fallback via "appcache" para os arquivos estáticos.
