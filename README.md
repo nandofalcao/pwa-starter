@@ -34,7 +34,9 @@ URL: [https://pwa-sw-toolbox.firebaseapp.com/step3/](https://pwa-sw-toolbox.fire
 
 ## Roadmap
 Adicionar suporte a BackgroundSync.
+
 Adicionar suporte a PushNotification.
+
 Colabore [https://github.com/nandofalcao/pwa-starter/pulls](https://github.com/nandofalcao/pwa-starter/pulls)
 
 ## Lighthouse results
