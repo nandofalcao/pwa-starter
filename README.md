@@ -46,7 +46,7 @@ Adicionar suporte a [PushNotification](https://developers.google.com/web/updates
 
 Adicionar projeto ao NPM e Bower.
 
-Colabore [https://github.com/nandofalcao/pwa-starter/pulls](https://github.com/nandofalcao/pwa-starter/pulls)
+Automatizar via Yeoman
 
 ## Lighthouse results
 ![light house results](https://s30.postimg.org/7r0osp2td/Captura_de_Tela_2017_01_31_a_s_00_04_30.png)
