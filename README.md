@@ -1,5 +1,5 @@
 # PWA Starter
-Template utilitário para configuração inicial de projetos com suporte a PWA.
+Template utilitário para configuração inicial de WebApps com suporte a PWA.
 
 ## HTML5 APIs
 Pré configurado com suporte ao estado de conexão do dispositivo (online/offline) via [navigator.online](https://developer.mozilla.org/pt-BR/docs/Web/API/NavigatorOnLine/onLine).
