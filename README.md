@@ -25,11 +25,16 @@ cacheFirst: Dê preferência em utilizar o cache nas requisições de recursos e
 
 networkFirst: Dê preferência ao dados remotos quando precisar de recursos com atualização frequente.
 
+Utilize o [Google Firebase](https://firebase.google.com/) para deploy na fase de desenvolvimento com suporte a HTTPS. Crie um projeto no Firebase, acesse o menu "Hosting" e siga o passo a passo.
+
+Utilize a ferramenta [Lighthouse](https://developers.google.com/web/tools/lighthouse) para validação de seu PWA.
+
 
 ## Demo
 Visite a [demo](https://pwa-sw-toolbox.firebaseapp.com/step3/) e logo após o carregamento da página desconecte-se da internet e navegue até uma página interna clicando na imagem. Conecte-se novamente :)
 
 URL: [https://pwa-sw-toolbox.firebaseapp.com/step3/](https://pwa-sw-toolbox.firebaseapp.com/step3/)
+
 
 
 ## Roadmap
