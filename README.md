@@ -17,11 +17,13 @@ Limites: [Working with quota on mobile browsers](https://www.html5rocks.com/en/t
 ## Dicas
 Em aplicações Angular adicione um estratégia de cache nas chamadas htp via [$cacheFactory](http://stackoverflow.com/questions/14117653/how-to-cache-an-http-get-service-in-angularjs?answertab=votes#tab-top).
 
-Utilize PouchDB para persistência de dados offline.
+Utilize [PouchDB](https://pouchdb.com/) para persistência de dados offline.
 
 Explore os [recursos disponíveis](https://whatwebcando.today) para cada navegador/plataforma.
 
-Dê preferência em utilizar o cache nas requisições de recursos estáticos e preferência ao dados remotos em requisições de recursos com atualização frequente.
+cacheFirst: Dê preferência em utilizar o cache nas requisições de recursos estáticos. 
+
+networkFirst: Dê preferência ao dados remotos quando precisar de recursos com atualização frequente.
 
 
 ## Demo
