@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# v.3
+
+CACHE:
+./index.html
+./second.html
+./js/main.js
+./css/style.css
+./images/pwa-intro.png
+./images/pwa-fast.png
+./images/game.png
+https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.11/angular.min.js
+
+NETWORK:
+*
+
+FALLBACK:
+*.html ./index.html

@@ -1,0 +1,38 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: #434343;
+}
+
+h1 {
+  margin-top: 30px;
+  padding-top: 0;
+  line-height: 1;
+  color: #2962ff;
+}
+
+img {
+  width: 85%;
+  display: inline-block;
+}
+
+body.offline {
+  background-color: #cccccc;
+  background-image: url('../images/game.png');
+  background-position: center top;
+  background-repeat: no-repeat;
+
+}
+
+body.offline h1 {
+  color: #434343;
+}
+
+body.offline img {
+  -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray; /* IE 6-9 */
+}

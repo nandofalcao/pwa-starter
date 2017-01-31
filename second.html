@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" manifest="./auto.appcache">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PWA</title>
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+  </head>
+  <body id="page">
+    <div class="container">
+      <h1>PWA</h1>
+      <p>second.html</p>
+      <a href="index.html"><img src="./images/pwa-fast.png" alt="Fast"></a>
+    </div>
+    <!-- JavaScript -->
+    <script src="./js/lib/sw-toolbox/companion.js" data-service-worker="./sw.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.11/angular.min.js"></script>
+    <script src="./js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" manifest="./auto.appcache">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PWA</title>
+    <meta name="theme-color" content="#2962ff">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="./images/apple-icon.png">
+    <link rel="manifest" href="./manifest.json">
+    <link rel="stylesheet" type="text/css" href="./css/style.css" media="screen">
+  </head>
+  <body id="page">
+  
+    <h1>PWA</h1>
+    <h2>SW Toolbox + API Navigator + Fallback</h2>
+    <p>index.html</p>
+    <a href="second.html"><img src="./images/pwa-intro.png" alt="PWA"></a>
+
+    <!-- JavaScript -->
+    <script src="./js/lib/sw-toolbox/companion.js" data-service-worker="./sw.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.11/angular.min.js"></script>
+    <script src="./js/main.js"></script>
+  </body>
+</html>
