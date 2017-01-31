@@ -33,14 +33,14 @@ Utilize a ferramenta [Lighthouse](https://developers.google.com/web/tools/lighth
 ## Demo
 Visite a [demo](https://pwa-sw-toolbox.firebaseapp.com/step3/) e logo após o carregamento da página desconecte-se da internet e navegue até uma página interna clicando na imagem. Conecte-se novamente :)
 
-URL: [https://pwa-sw-toolbox.firebaseapp.com/step3/](https://pwa-sw-toolbox.firebaseapp.com/step3/)
+URL: [https://pwa-sw-toolbox.firebaseapp.com/step3/](https://pwa-sw-toolbox.firebaseapp.com/step3)
 
 
 
 ## Roadmap
-Adicionar suporte a BackgroundSync.
+Adicionar suporte a [BackgroundSync](https://developers.google.com/web/updates/2015/12/background-sync).
 
-Adicionar suporte a PushNotification.
+Adicionar suporte a [PushNotification](https://developers.google.com/web/updates/2015/03/push-notifications-on-the-open-web).
 
 Colabore [https://github.com/nandofalcao/pwa-starter/pulls](https://github.com/nandofalcao/pwa-starter/pulls)
 
