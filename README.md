@@ -15,7 +15,7 @@ Pré configurado com suporte Safari iOS e MacOS via appcache manifest para estra
 Limites: [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
 
 ## Dicas
-Em aplicações Angular adicione um estratégia de cache nas chamadas htp via [$cacheFactory](http://stackoverflow.com/questions/14117653/how-to-cache-an-http-get-service-in-angularjs?answertab=votes#tab-top).
+Em aplicações AngularJS adicione um estratégia de cache nas requisições HTTP via [$cacheFactory](http://stackoverflow.com/questions/14117653/how-to-cache-an-http-get-service-in-angularjs?answertab=votes#tab-top).
 
 Utilize [PouchDB](https://pouchdb.com/) para persistência de dados offline.
 
